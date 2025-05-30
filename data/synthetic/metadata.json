@@ -1,0 +1,22 @@
+{
+  "generation_timestamp": "2025-05-30T07:37:04.116626",
+  "generator_version": "1.0.0",
+  "parameters": {
+    "n_patients": 5,
+    "seed": 42,
+    "abnormal_ratio": 0.3,
+    "high_risk_ratio": 0.2
+  },
+  "statistics": {
+    "total_patients": 5,
+    "age_distribution": {
+      "<40": 3,
+      "40-60": 0,
+      ">60": 2
+    },
+    "gender_distribution": {
+      "M": 5,
+      "F": 0
+    }
+  }
+}
