@@ -346,12 +346,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open-source scientific computing libraries
 - Healthcare AI research community
 
-## 📞 Support
-
-For questions, issues, or contributions:
-- **Issues**: GitHub Issues
-- **Discussions**: GitHub Discussions
-- **Email**: team@healthcare-ai.com
 
 ---
 
